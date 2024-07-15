@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello Divakar!
 Hai hardeep bro!!!!
+=======
+Hi I am yash
+>>>>>>> 11353c66e1b21ef1ab9b567b14ddee69796ab51d
